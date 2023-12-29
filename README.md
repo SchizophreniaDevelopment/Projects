@@ -1,2 +1,2 @@
 # Projects
-For a --> 3251232353
+For the encoder/decoder. Use only letters and spaces. no punctuation will transfer.
